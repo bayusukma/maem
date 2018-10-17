@@ -19,24 +19,24 @@ public class MainActivity extends AppCompatActivity {
         resep_nama.add("Lodeh");
         resep_detail.add("Sayur lodeh adalah masakan sayur yang berkuah santan khas Indonesia, terutama di daerah Jawa Tengah. Sayur lodeh mempunyai berbagai macam variasi terutama pada bumbunya, ada yang santannya berwarna putih dan ada juga yang santannya berwarna kuning kemerahan. ");
         resep_ingredients.add("\n" 
-                "1/4 kg nangka muda/gori/cecek\n"
-                "5 helai kacang panjang,potong-potong\n"
-                "Santan encer dari 1/4 butir kelapa\n"
-                "1 lembar daun salam\n"
-                "1 ruas laos, keprek\n"
-                "2 sdm minyak goreng untuk menumis\n"
-                "Secukupnya garam\n"
-                "1/4 sdt gula jawa/gula pasir\n"
-                "Sedikit bawang goreng untuk taburan\n"
-                "Secukupnya garam\n"
-                "Bumbu halus :\n"
-                "5 siung bawang merah\n"
-                "3 siung bawang putih\n"
-                "1 buah kemiri\n"
-                "1/2 sdt ketumbar\n"
+                "1/4 kg nangka muda/gori/cecek\n"+
+                "5 helai kacang panjang,potong-potong\n"+
+                "Santan encer dari 1/4 butir kelapa\n"+
+                "1 lembar daun salam\n"+
+                "1 ruas laos, keprek\n"+
+                "2 sdm minyak goreng untuk menumis\n"+
+                "Secukupnya garam\n"+
+                "1/4 sdt gula jawa/gula pasir\n"+
+                "Sedikit bawang goreng untuk taburan\n"+
+                "Secukupnya garam\n"+
+                "Bumbu halus :\n"+
+                "5 siung bawang merah\n"+
+                "3 siung bawang putih\n"+
+                "1 buah kemiri\n"+
+                "1/2 sdt ketumbar\n"+
                 "1 ruas jari kunyit ");
         resep_process.add("1.process");
-        resep_nama.add("Mi goreng");
+        resep_nama.add("Gudeg");
         resep_detail.add("Gudeg adalah makanan khas Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat masakan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tahu dan sambal goreng krecek. ");
         resep_ingredients.add("1.Nasi\n2.Air");
         resep_process.add("1.process");
